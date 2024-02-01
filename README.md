@@ -1,7 +1,7 @@
 # DTB_R35S_R36S
 Arquivo DTB, R35S e R36S
 
-Para ArkOS 27/01/2024 e mais atuais: 
+Para <a href="https://github.com/christianhaitian/arkos">ArkOS</a> 27/01/2024 e mais atuais: 
 
 <a href="https://github.com/michaelps100/DTB_R35S_R36S/blob/main/rk3326-r35s-linux.dtb">rk3326-r35s-linux.dtb</a>
 
